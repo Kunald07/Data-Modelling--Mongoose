@@ -1,0 +1,15 @@
+{
+  "name": "data-modelling",
+  "version": "1.0.0",
+  "description": "data modeling with mongoose",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.2.3"
+  }
+}
